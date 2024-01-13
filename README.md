@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Abah Emanuel Adah <abahea166@gmail.com>
+Abah Emanuel Adah <abahea166@gmail.com> <br>
 Victor Godwin <>
 
 ## License
